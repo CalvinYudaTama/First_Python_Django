@@ -1,1 +1,1 @@
-# First_Python_Django
+# Python_Django_Blog
